@@ -2,7 +2,7 @@
 
 An AI-powered real-time sign language recognition system built with Next.js, TensorFlow.js, and computer vision. This application enables seamless communication between sign language users and the broader community by translating hand gestures into text and speech in real-time.
 
-[![Live Demo][https://img.shields.io/badge/demo-live-success](https://sign-language-recognition-1-ncse.onrender.com)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://sign-language-recognition-1-ncse.onrender.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.0-orange?logo=tensorflow)](https://www.tensorflow.org/js)
